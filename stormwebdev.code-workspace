@@ -1,11 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../StormWeb/dev/stormwebdev"
-		},
-		{
-			"name": "stormwebdev",
-			"path": "../StormWeb/dev/stormwebdev/stormwebdev"
+			"path": "../stormwebdev"
 		}
 	],
 	"settings": {}
